@@ -37,10 +37,7 @@ Key features include:
 * Runtime
 * Genre
 * IMDb Rating
-* Meta Score
 * Director
-* Votes
-* Gross Revenue
 
 ## Key Analyses
 * IMDb Rating Distribution
@@ -51,7 +48,6 @@ Key features include:
 * Ratings by Decade
 * Runtime Analysis
 * Runtime vs Rating
-* Votes vs Rating
 * Director Analysis
 * Highest Rated Directors
 * Certificate Analysis
