@@ -49,18 +49,29 @@ Key features include:
 * Runtime Analysis
 * Runtime vs Rating
 * Director Analysis
-* Highest Rated Directors
-* Certificate Analysis
-* Gross Revenue Analysis
-* Correlation Analysis
 * Actor Frequency Analysis
 
-## Key Insights
-* Drama is the dominant genre among top-rated movies.
-* Most movies have ratings between 8.0 and 8.5.
-* Certain directors consistently appear in IMDb's Top 1000.
-* Higher vote counts generally correspond with stronger ratings.
-* Movie production trends vary significantly across decades.
+## Key Findings
+
+1. The dataset contains XXX movies released between XXXX and XXXX.
+
+2. The average IMDb rating is X.X.
+
+3. The average movie duration is XXX minutes.
+
+4. Drama is the most common genre.
+
+5. The highest-rated movie is "Movie Name" with a rating of X.X.
+
+6. Most movies fall within the 7–8.5 rating range.
+
+7. The majority of movies have runtimes between 90 and 150 minutes.
+
+8. There is a weak positive correlation between movie duration and IMDb rating.
+
+9. Director X appears most frequently in the dataset.
+
+10. Movie releases peaked in XXXX.
 
 ---
 Author
