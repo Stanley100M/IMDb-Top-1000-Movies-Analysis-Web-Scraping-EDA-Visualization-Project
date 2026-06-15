@@ -41,6 +41,8 @@ Key features include:
 
 ## Key Analyses
 * IMDb Rating Distribution
+
+![Rating Distribution](images/rating_distribution.png)
 * Top Rated Movies
 * Genre Analysis
 * Ratings by Genre
