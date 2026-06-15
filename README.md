@@ -44,14 +44,32 @@ Key features include:
 
 ![Rating Distribution](images/rating_distribution.png)
 * Top Rated Movies
-* Genre Analysis
-* Ratings by Genre
+
+![Top Rated Movies](images/top_rated_movies.png)
+
 * Movies by Decade
+![Movies Released by decade](images/Movies Released Per Decade.png)
+
 * Ratings by Decade
+![Movies Ratin by decade](images/average_movie_rating_by_decade.png)
+
+* Genre Analysis
+![Movies by genre](images/Movie Genres Treemap.png)
+
 * Runtime Analysis
-* Runtime vs Rating
+![Movies Duration](images/duration_distribution.png)
+
+* Runtime vs Rating 
+![Movies Released Per Year](images/movie rating vs duration.png)
+  
 * Director Analysis
+![Top Directors](images/top_directors.png)
+  
 * Actor Frequency Analysis
+![Top Actors](images/Top 15 Actors by Movie Appearances.png)
+
+* Actor Frequency vs Ratings
+![Actors vs Ratings](images/Actor Frequency vs Average Rating.png)
 
 ## Key Findings
 
