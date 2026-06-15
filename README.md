@@ -48,7 +48,7 @@ Key features include:
 ![Top Rated Movies](images/top_rated_movies.png)
 
 * Movies by Decade
-![Movies Released by decade](images/Movies Released Per Decade.png)
+![Movies Released by decade](images/Movies_Released_Per_Decade.png)
 
 * Ratings by Decade
 ![Movies Rating by decade](images/average_movie_rating_by_decade.png)
